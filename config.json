@@ -1,0 +1,5 @@
+{
+    "name":"SadBoatEngine",
+    "version":"*",
+    "directory":"./output/"
+}
