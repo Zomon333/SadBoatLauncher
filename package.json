@@ -1,0 +1,14 @@
+{
+  "name": "sadboatlauncher",
+  "version": "1.0.0",
+  "description": "The Launcher for games made with the SadBoat Engine",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dagan Poulin, Justice Guillory",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^24.3.1"
+  }
+}
